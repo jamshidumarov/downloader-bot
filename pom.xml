@@ -55,6 +55,14 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.github.sealedtx/java-youtube-downloader -->
+<!--        <dependency>-->
+<!--            <groupId>com.github.sealedtx</groupId>-->
+<!--            <artifactId>java-youtube-downloader</artifactId>-->
+<!--            <version>3.0.1</version>-->
+<!--        </dependency>-->
+
     </dependencies>
 
     <build>
